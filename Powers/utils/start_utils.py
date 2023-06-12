@@ -53,7 +53,7 @@ async def gen_start_kb(q: Message or CallbackQuery):
             [
                 (
                     "🗃️ Source Code",
-                    "https://github.com/Gojo-Bots/Gojo_Satoru",
+                    "https://telegram.me/xenov7x",
                     "url",
                 ),
                 (
@@ -65,7 +65,7 @@ async def gen_start_kb(q: Message or CallbackQuery):
             [
                 (
                     "Join for GFx work",
-                    "https://t.me/psy_Logos",
+                    "https://t.me/xen_logos",
                     "url",
                 ),
                 (
@@ -255,7 +255,7 @@ async def get_help_msg(m: Message or CallbackQuery, help_option: str):
         )
     else:
         help_msg = """
-Hey There! My name is Gojo.
+Hey There! My name is Xenov.
 I'm here to help you manage your groups!
 Commands available:
 × /start: Start the bot
